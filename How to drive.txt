@@ -1,0 +1,18 @@
+Connect controller with bluetooth to Raspberry Pi
+Run python script on Raspberry Pi Zero
+
+Left joystick UP - Forward
+Left joystick DOWN - Backward
+Create button (or equivalent) - Change direction forward/backward
+Right joystick LEFT - turn left
+Right joystick RIGHT - turn right
+PS button (or equivalent) - end program
+
+As this is opensource, You can change it to fit Your needs 
+
+TO MAKE DC MOTORS SAFE:
+Only forward or backward movement is possible at a time,
+and for safety reasons, a "change direction" button is required
+to prevent the user from accidentally changing it.
+However, it is still possible to do so while the car is still moving
+in the opposite direction.
