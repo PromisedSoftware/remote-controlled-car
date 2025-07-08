@@ -52,7 +52,7 @@ USB boost converter step-up
 Two AA batteries 1.5v
 Springs that will connect and hold batteries
 Some shafts (or similar cylinder) Two: 3x20mm AND Four 3:10mm
-Two bearings 3x8x3mm [inner hole X outter size X depth]
+Two bearings 3x8x3mm [inner hole | outter size | depth]
 About 3 screws with nuts M2 10mm
 Some wires at least 0.5mm core (for batteries connetcions use much thicker) Recommended: 0.75 or 1mm core
 Rubber that will work as a tire for 4 wheels example: scrap of bicycle puncture or something similar
